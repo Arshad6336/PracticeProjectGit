@@ -7,6 +7,9 @@ public class Test2 {
 		
 		String str="hungry";
 		
+	int size	=str.length();
+	
+	System.out.println(size);
 		System.out.println("the given string is"+str);
 
 	}
